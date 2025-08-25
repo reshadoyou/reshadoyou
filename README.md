@@ -1,4 +1,4 @@
 ### Hey, I'm Eileen 
-Web developer building fast, human-first experiences with diferents technology. I care about clean code, accessibility, and performance—no fluff, just impact.  
+I believe technology should feel effortless. As a Software & Systems Developer, I focus on making every solution simple, intuitive, and aligned with the user’s needs—always aiming to solve problems with clarity and impact.  
 🔗 [Portfolio](https://reshadoyou.github.io/portfolio/)
 
